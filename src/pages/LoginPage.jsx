@@ -33,24 +33,6 @@ const LoginPage = () => {
       } else if (data[0].email === "ghost@gmail.com") {
         navigate("/user2");
       }
-      //  navigate('/admin')
-      // console.log(response);
-      // if(response.email="king@gmail.com"){
-      //   navigate('/admin')
-
-      //    if(response.email="soap@gmail.com"){
-      //     navigate('/user1')
-
-      //     if(response.email="ghost@gmail.com"){
-      //       navigate('/user2')
-      //     }
-
-      //   }
-
-      // }else{
-      //   alert("invalid user")
-
-      // }
     } catch (err) {}
   };
 
