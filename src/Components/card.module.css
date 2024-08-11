@@ -1,0 +1,26 @@
+.card{
+    border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgb(81, 79, 79);
+    padding: 16px;
+    margin: 16px;
+    max-width: 200px;
+    transition: box-shadow 0.3 ease;
+    
+}
+
+.card:hover{
+    box-shadow: 0 4px 5px rgb(220, 206, 206);
+}
+
+.card-title{
+    text-align: center;
+    font-size: 1.25rem;
+    margin-bottom: 8px;
+}
+
+.card-description{
+    text-align: center;
+    font-size: 1rem;
+    color: rgb(9, 12, 159);
+}

@@ -1,0 +1,32 @@
+.login{
+    box-sizing: border-box;
+    position: absolute;
+    left: 550px;
+    top: 250px;
+    border: 2px solid ;
+    min-width: 500px;
+   
+    
+}
+.login-log{
+    box-sizing: border-box;
+    border: 2px solid black;
+    text-align: center;
+    color: cadetblue;
+    text-shadow: 1px 2px  rgb(54, 54, 207);
+}
+
+.login-container{
+    text-align: center;
+    color: brown;
+   
+}
+.login-btn{
+    background-color: whitesmoke;
+    
+}
+.login-btn:hover{
+    color: red;
+    cursor: pointer;
+}
+

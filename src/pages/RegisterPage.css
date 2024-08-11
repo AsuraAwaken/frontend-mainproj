@@ -1,0 +1,30 @@
+.reg-form{
+    box-sizing: border-box;
+    position: absolute;
+    left: 550px;
+    top: 250px;
+    border: 2px solid ;
+    min-width: 400px;
+   
+}
+.reg-logo{
+    box-sizing: border-box;
+    border: 2px solid black;
+    text-align: center;
+    color: rgb(6, 151, 156);
+    text-shadow: 1px 1px  rgb(169, 235, 167);
+}
+.form{
+    text-align: center;
+    
+}
+#reg-btn{
+    background-color: aliceblue;
+}
+#reg-btn:hover{
+    color: brown;
+    cursor: pointer;
+}
+    
+   
+    
